@@ -1,8 +1,7 @@
-# Cyber Cell Security Toolkit
+# Cyber Security Toolkit
 ### By Jayesh Goyal | SDJ International College
 
-A collection of cybersecurity tools built for
-Cyber Cell internship preparation.
+A collection of cybersecurity tools.
 
 ## Tools Included:
 
