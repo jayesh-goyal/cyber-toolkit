@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # 🔒 Cyber Security Toolkit
 ### By Jayesh Goyal | SDJ International College
 
+=======
+# Cyber Security Toolkit
+### By Jayesh Goyal | SDJ International College
+
+A collection of cybersecurity tools.
+>>>>>>> 8a5412da0fb0535827be190d4cb359862fdf5e50
 
 
 ![Security](https://img.shields.io/badge/Security-Cybersecurity-blue)
